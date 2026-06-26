@@ -1,6 +1,6 @@
 # Decoder Transformer From Scratch (PyTorch)
 
-A from-scratch implementation of a decoder-only Transformer (GPT) in PyTorch built while studying the architecture described in *Attention Is All You Need* *Layer Normalization*  *Attention Scheme Inspired Softmax Regressio*.
+A from-scratch implementation of a decoder-only Transformer (GPT) in PyTorch built while studying the architecture described in *Attention Is All You Need*/*Layer Normalization*/*Attention Scheme Inspired Softmax Regressio*.
 
 The goal of this project is not simply to train a language model, but to understand every component of the Transformer by implementing it manually.
 
